@@ -1,0 +1,7 @@
+gyrB_NC_020418.1_1	CP069157.1_Morganella_morganii_strain_DSM_30164	100.000	805	100
+gyrA_NC_020418.1_1	CP069157.1_Morganella_morganii_strain_DSM_30164	100.000	872	100
+parE_NC_020418.1_1	CP069157.1_Morganella_morganii_strain_DSM_30164	100.000	632	100
+pbp3_NZ_AMWL02000027.1_1	CP069157.1_Morganella_morganii_strain_DSM_30164	100.000	598	100
+pbp2_AZRH01000002.1_1	CP069157.1_Morganella_morganii_strain_DSM_30164	100.000	644	100
+pbp1a_CP004345.1_1	CP069157.1_Morganella_morganii_strain_DSM_30164	100.000	818	100
+pbp1b_NZ_BCZU01000005.1_1	CP069157.1_Morganella_morganii_strain_DSM_30164	100.000	836	100
